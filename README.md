@@ -1,8 +1,8 @@
 # Twitter Data Analyser
 
-*Twitter Data Analyser* shows a stream of Donald Trumps tweets and a stream of Fox News Headlines. It then creates a word cloud using saved tweets, and a graph of the time of day when tweets are posted.
+*Twitter Data Analyser* shows a stream of Donald Trump's tweets and a stream of Fox News Headlines. It then creates a word cloud using saved tweets, and a graph of the time of day when tweets are posted.
 
-See project live here: [Twitter Data Analyser](https://harpalassi.github.io/Twitter-Data-Analyser)
+See project live here: [Twitter Data Analyser](https://harpalassi.github.io/twitter-data-analyser)
 
 ## Getting Started
 
